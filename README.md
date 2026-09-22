@@ -26,8 +26,8 @@ This project builds a complete, reproducible supervised machine learning workflo
 ## Dataset
 
 **UCI Adult / Census Income Dataset** (1994 U.S. Census Bureau demographic and employment records)
-Source: [UCI Machine Learning Repository — Adult](https://archive.ics.uci.edu/dataset/2/adult)
-File used: `census.csv`
+- Source: [UCI Machine Learning Repository — Adult](https://archive.ics.uci.edu/dataset/2/adult)
+- File used: `census.csv`
 
 ## How to Run the Project
 
